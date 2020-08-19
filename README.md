@@ -1,6 +1,6 @@
 ### Welcome
 
-![Paul's github stats](https://github-readme-stats.vercel.app/api?username=DerPauli&show_icons=true&theme=radical)
+![Paul's github stats](https://github-readme-stats.vercel.app/api?username=DerPauli&show_icons=true&theme=radical&include_all_commits=true)
 
 
 <!--
