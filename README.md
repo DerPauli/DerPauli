@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome
 
-[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=DerPauli)](https://github.com/anuraghazra/github-readme-stats)
+![Paul's github stats](https://github-readme-stats.vercel.app/api?username=DerPauli&show_icons=true&theme=radical)
 
 
 <!--
