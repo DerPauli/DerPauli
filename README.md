@@ -1,7 +1,7 @@
 ## Welcome
 
 ### Introduction
-My name is Paul, I am from Austria and I started out as a backend developer besides my university studies. After dropping out of university, I pursued my dream, which was to build a foundation and establish a common knowledge basis in the (rather unmature) field of DevSecOps-/ Cloud Engineering. At the age of 22 I founded the company [@codezenith](https://github.com/codezenith), which deliveres DevSecOps- and Cloud best practises.
+My name is Paul, I am from Austria and I started out as a backend developer besides my university studies. After dropping out of university, I pursued my dream, which was to build a foundation and establish a common knowledge basis in the (rather immature) field of DevSecOps-/ Cloud Engineering. At the age of 22 I founded the company [@codezenith](https://github.com/codezenith), which deliveres DevSecOps- and Cloud best practises.
 ____
 ### Stats
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=DerPauli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&)
